@@ -1,0 +1,11 @@
+@import "tailwindcss/base";
+/* @tailwind base; */
+@import "tailwindcss/components";
+/* @tailwind components; */
+@import "tailwindcss/utilities";
+
+
+body {
+  background: #918888;
+  padding: 20px;
+}
